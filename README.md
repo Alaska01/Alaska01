@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on JavaScript Capstone Project.
+- 🔭 I’m currently available for hire and I am looking for Full-Stack Web Development opportunities.
+- 🔭 I’m currently working on my JavaScript Capstone Project.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on great ideas with people globally.
 - 🤔 I’m looking for help with new opportunities that would challenge me to learn, unlearn and re-learn in tech.
