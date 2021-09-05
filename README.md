@@ -13,5 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ✨ [Twitter](https://twitter.com/AyeAsoo), [Linkedin](https://www.linkedin.com/in/daniel-asoo-aye/)✨ 
 - 😄 Pronouns: He/She
 - ⚡ Fun fact: To be good at coding, you must get your hands dirty with practice. Keep coding!!!! 😄 😄 😄 😄 
+- ![image](https://user-images.githubusercontent.com/59781317/132133033-830f75d2-693a-4661-a05e-b7bbbebfc578.png)
+
 
 [![Aye Daniel's github stats](https://github-readme-stats.vercel.app/api?username=Alaska01&show_icons=true&theme=radical)](https://github.com/Alaska01/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska01&show_icons=true&theme=radical&layout=compact)](https://github.com/Alaska01/github-readme-stats)
