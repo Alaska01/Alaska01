@@ -1,4 +1,4 @@
-### Hi there 👋 I am ✨ Engr. Aye Daniel ✨ R.Engr (COREN), MNSE. A Full-Stack Developer
+### Hi there 👋 I am ✨ Engr. Aye Daniel ✨ R.Engr (COREN), MNSE. A Full-Stack Web Developer
 
 <!--
 **Alaska01/Alaska01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
