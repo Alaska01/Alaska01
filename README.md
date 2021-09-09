@@ -1,4 +1,4 @@
-### Hi there 👋 I am ✨ Engr. Aye Daniel ✨ R.Engr (COREN), MNSE. 
+### Hi there 👋 I am ✨ Engr. Aye Daniel ✨ R.Eng (COREN), MNSE. 
 ✨A Full-Stack Web Developer.✨ I am currently looking for new opportunities.
 ✨ I am available for hire.✨✨✨✨✨
 
