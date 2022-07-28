@@ -7,7 +7,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently available for hire and I am looking for Full-Stack Web Development opportunities.
+- 🔭 I’m currently a Technical Learning Assistant with Microverse Inc.
+- 🔭 I’m currently available for hire and I am looking for Full-Stack Web Development, Frondend(Reactjs), Backend(Rails) opportunities.
 - 🔭 I’m currently job searching, if you have an offer do not hesistate to contact me.
 - 🌱 I’m currently learning preparing to learn Node.js.
 - 👯 I’m looking to collaborate on great ideas with people globally.
